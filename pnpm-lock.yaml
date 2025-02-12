@@ -36,8 +36,8 @@ dependencies:
     specifier: ^2.0.1
     version: 2.0.1
   '@uiw/codemirror-theme-vscode':
-    specifier: ^4.21.12
-    version: 4.21.12(@codemirror/language@6.8.0)(@codemirror/state@6.2.1)(@codemirror/view@6.17.1)
+    specifier: ^4.23.8
+    version: 4.23.8(@codemirror/language@6.8.0)(@codemirror/state@6.2.1)(@codemirror/view@6.17.1)
   astro-seo:
     specifier: ^0.8.0
     version: 0.8.0
@@ -1829,18 +1829,18 @@ packages:
     resolution: {integrity: sha512-ko/gIFJRv177XgZsZcBwnqJN5x/Gien8qNOn0D5bQU/zAzVf9Zt3BlcUiLqhV9y4ARk0GbT3tnUiPNgnTXzc/Q==}
     dev: true
 
-  /@uiw/codemirror-theme-vscode@4.21.12(@codemirror/language@6.8.0)(@codemirror/state@6.2.1)(@codemirror/view@6.17.1):
-    resolution: {integrity: sha512-N7FbaQijjVYXfgimxC9gL3UI7Ezrbsj0MTG0lNy9m3lmwwokaRLPkPN88o8uBf/7K851Hp7UM2BqoyOi71fqqw==}
+  /@uiw/codemirror-theme-vscode@4.23.8(@codemirror/language@6.8.0)(@codemirror/state@6.2.1)(@codemirror/view@6.17.1):
+    resolution: {integrity: sha512-Gxa98stfYFWGgy3OW4KUUuLI13TSBEp7fY/SSxf6nYzIfwPSBdWP24mizrVgEucsbMw99IvqCP9Uja62Sn2jSw==}
     dependencies:
-      '@uiw/codemirror-themes': 4.21.12(@codemirror/language@6.8.0)(@codemirror/state@6.2.1)(@codemirror/view@6.17.1)
+      '@uiw/codemirror-themes': 4.23.8(@codemirror/language@6.8.0)(@codemirror/state@6.2.1)(@codemirror/view@6.17.1)
     transitivePeerDependencies:
       - '@codemirror/language'
       - '@codemirror/state'
       - '@codemirror/view'
     dev: false
 
-  /@uiw/codemirror-themes@4.21.12(@codemirror/language@6.8.0)(@codemirror/state@6.2.1)(@codemirror/view@6.17.1):
-    resolution: {integrity: sha512-mcyVSND6GhYMRw22uHkhVEPZeX9qh/rPjaTxS8ZAWpvpU1JfjcmKNc1gPECmKRrzjPDvH66TbscNmvERd59Pyg==}
+  /@uiw/codemirror-themes@4.23.8(@codemirror/language@6.8.0)(@codemirror/state@6.2.1)(@codemirror/view@6.17.1):
+    resolution: {integrity: sha512-PZmJBZxWMuZ48p/2D5aRPl8zTlBq1d/+NeRqyyH6P6k6yWDF6h71m0Dt+fjslgPE7KmWXux2hbejXXXoRLZO9Q==}
     peerDependencies:
       '@codemirror/language': '>=6.0.0'
       '@codemirror/state': '>=6.0.0'
