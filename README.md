@@ -8,7 +8,7 @@
    
    ## What is Noctura?
    
-   Noctura is a submission to the 2023 Titanium Network Proxathon.
+   Noctura is a submission to the 2023 Titanium Network Proxathon. I am now the unofficial maintainer.
    
    ## Features
 
