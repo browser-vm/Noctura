@@ -22,7 +22,7 @@
     "@babel/runtime": "^7.22.11",
     "@codemirror/lang-css": "^6.2.0",
     "@codemirror/lang-javascript": "^6.1.9",
-    "@fastify/compress": "^6.4.0",
+    "@fastify/compress": "^6.5.0",
     "@fastify/static": "^6.10.2",
     "@swc/core": "^1.3.70",
     "@titaniumnetwork-dev/ultraviolet": "github:titaniumnetwork-dev/ultraviolet",
