@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Noctura is no longer actively maintained.
+> Noctura is no longer actively maintained by its original creators.
 <div align="center">
    <img src="https://i.ibb.co/1M2qSLw/nocturalogo.png" alt="noctura" height="70"/>
    <br></br>
