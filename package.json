@@ -27,7 +27,7 @@
     "@swc/core": "^1.3.70",
     "@titaniumnetwork-dev/ultraviolet": "github:titaniumnetwork-dev/ultraviolet",
     "@tomphttp/bare-server-node": "^2.0.1",
-    "@uiw/codemirror-theme-vscode": "^4.21.12",
+    "@uiw/codemirror-theme-vscode": "^4.25.4",
     "astro-seo": "^0.8.0",
     "codemirror": "^6.0.1",
     "fastify": "^4.18.0",
