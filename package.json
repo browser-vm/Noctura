@@ -35,7 +35,7 @@
     "html-minifier-terser": "^7.2.0",
     "lightningcss": "^1.21.7",
     "rammerhead": "https://github.com/holy-unblocker/rammerhead/releases/download/v1.2.41-holy.5/rammerhead-1.2.41-holy.5.tgz",
-    "sharp": "^0.32.6"
+    "sharp": "^0.35.4"
   },
   "type": "module",
   "devDependencies": {
